@@ -271,7 +271,7 @@
 
 		<!-- footer start -->
 		<footer>
-			Virk Real Estetes &copy; 2020 | All Rights Reserved
+			Virk Real Estetes &copy; 2022 | All Rights Reserved
 		</footer>
 		<!-- footer end -->
 
