@@ -70,6 +70,7 @@ if ($images) {
 			</ul>
 		</div>
 	</nav>
+	
 	<!-- header section end -->
 
 	<div class="container">
